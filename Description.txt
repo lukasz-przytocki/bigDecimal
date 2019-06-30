@@ -1,0 +1,1 @@
+Napisz program który będzie przechowywał w liście zestawienie sprzedaży z obiektami zawierającymi: nazwę sprzedanego towaru/usługi, cenę netto, stawkę VAT (np. "telewizor LG", 3.2, 23) i wypisuje: • Sumę sprzedaży netto • Sumę sprzedaży brutto • Sumę VAT Do obliczeń i przechowywania kwot wykorzystaj klasę BigDecimal.
